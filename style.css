@@ -87,10 +87,7 @@ header {
   padding: 2rem 0 10rem;
   text-align: center;
 }
-header #logo {
-  color: var(--color-white);
-  font-weight: 100;
-}
+
 /* Balance =================== */
 #balance {
   margin-top: -8rem;
