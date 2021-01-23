@@ -80,7 +80,32 @@ button:hover{
 .button.cancel:hover{
     opacity: 1;
 }
-
+.dark-mode{
+  width: 100px;
+  height: 30px;
+  background: #130f40;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  transition: 0.4s linear;
+  outline: none;
+  border-radius: 0.2rem;
+}
+.dark-mode i{
+  color:#EBC815;
+}
+.dark-mode:hover{
+  background: #192a56;
+}
+.dark-background{
+  background: #0D1117;
+}
+.buttons-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 /* Header ================== */
 header {
   background: #2d4a22;
