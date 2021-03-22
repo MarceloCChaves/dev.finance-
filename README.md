@@ -1,5 +1,5 @@
 # dev.finance$
-### Aplicação em desenvolvimento da MaratonaDiscover realizada pela Rocketseat
+### Aplicação realizada na MaratonaDiscover pela Rocketseat
 
 <p align="center">
   <img alt="dev.finances" src="/github/dev.finances.png" width="70%">
